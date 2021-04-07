@@ -117,6 +117,54 @@
         "hungry"
       ],
       "id": "11"
+    },
+    {
+      "name": "Joe",
+      "species": "Monkey",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "hungry"
+      ],
+      "id": "12"
+    },
+    {
+      "name": "Joe",
+      "species": "Monkey",
+      "diet": "folivore",
+      "personalityTraits": [
+        "hungry",
+        "zany"
+      ],
+      "id": "13"
+    },
+    {
+      "name": "Joe",
+      "species": "Monkey",
+      "diet": "folivore",
+      "personalityTraits": [
+        "hungry",
+        "zany"
+      ],
+      "id": "14"
+    },
+    {
+      "name": "Joe",
+      "species": "Monkey",
+      "diet": "folivore",
+      "personalityTraits": [
+        "hungry",
+        "zany"
+      ],
+      "id": "15"
+    },
+    {
+      "name": "Joe",
+      "species": "Monkey",
+      "diet": "herbivore",
+      "personalityTraits": [
+        "zany"
+      ],
+      "id": "16"
     }
   ]
 }
